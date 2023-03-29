@@ -54,4 +54,6 @@
 |---|---|---|
 |Gerev AI   |Search engine for your organization   |https://github.com/GerevAI/gerev|
 |Chat-todo-plugin  |ChatGPT Plugin for managing a TODO list |https://github.com/lencx/chat-todo-plugin|
+|ChadCode |An intelligence layer on your codebase |https://twitter.com/mathemagic1an/status/1639779842769014784|
+|Domain Ideas |Brainstorm domain names with ChatGPT | https://twitter.com/steventey/status/1640378476950855680|
 
