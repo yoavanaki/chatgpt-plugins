@@ -47,6 +47,9 @@
 |Speak   |Learn how to say anything in another language with Speak, your AI-powered language tutor.|
 |Wolfram   |Access computation, math, curated knowledge & real-time data through Wolfram|Alpha and Wolfram Language.|
 |Expedia   |Bring your trip plans to life—get there, stay there, find things to see and do.|
+|[JoPilot](https://jopilot.net/) | Search jobs in the US by company name, keywords, locations and distance. |
+|[Resume Copilot](https://c-resume.copilot.us/) | Upload your resume/CV, get feedback and create a new version of the resume for free. |
+
 
 ### 3rd Party Plugins
 
