@@ -24,6 +24,10 @@
 
 ## Plugin List
 
+### 3rd Party Plugin Store
+
+getitAI open chat gpt plugin store: https://www.getit.ai/gpt-plugins 
+
 ### Official OpenAI Plugins
 
 |Name   |Description |
